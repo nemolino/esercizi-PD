@@ -1,1 +1,1 @@
-# esercizi-ProgrammazioneDichiarativa
+# Esercizi del corso di Programmazione Dichiarativa
