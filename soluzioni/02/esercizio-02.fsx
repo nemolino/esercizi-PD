@@ -33,6 +33,5 @@ let somma_n n =
     let (sum, str) = make_sum_str_1 n
     str + " = " + string sum
 
-
 let out3 = somma_n 5
 let out4 = somma_n 10
